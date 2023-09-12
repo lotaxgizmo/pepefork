@@ -15,7 +15,7 @@ function About() {
 
 
 
-          $PEPEFORK started as a simple meme coin but has quickly turned into a potent cultural movement.
+          PEPEFORK began as a meme coin and has now evolved into a cultural phenomenon. 
           <br /><br />
           With future utility, such as an NFT trading card game, we aim to bring a fun and enticing environment for new holders to ride our chart to the moon.
           <br /><br />
@@ -38,7 +38,7 @@ function About() {
 
 
 
-            $PEPEFORK started as a simple meme coin but has quickly turned into a potent cultural movement.
+            PEPEFORK began as a meme coin and has now evolved into a cultural phenomenon. 
             <br />
             <br />
             With future utility, such as an NFT trading card game, we aim to bring a fun and enticing environment for new holders to ride our chart to the moon.

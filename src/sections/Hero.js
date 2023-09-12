@@ -19,9 +19,8 @@ function Hero() {
   return (
     <div className='flex flex-col justify-center items-center pt-10 relative'>
       
-<img src={Backimg} alt="" className='absolute top-1 lg:w-[1000px] z-[1]'/>
+<img src={Backimg} alt="" className='absolute top-1 lg:w-[1000px] z-[1] blur-[2px]'/>
 {/* <img src={Mobnav} alt="" className='w-80 mb-5 z-[2]'/> */}
-<img src={Date} alt="" className='w-80 mb-5 z-[2]'/>
 
   <Fade right >
 <img src={Pepemob} alt="" className='w-80 mb-5 z-[2] lg:hidden ' />
