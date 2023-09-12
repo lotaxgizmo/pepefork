@@ -4,7 +4,7 @@ import Topbtn from '../images/topbtn.png'
 
 function Navbar() {
   return (
-    <div className='flex mt-4 justify-between burger flex-row items-center align-middle px-20 lg:hidden'>
+    <div className='lg:flex mt-4 justify-between burger flex-row items-center align-middle px-20 hidden'>
 
       <img src={Pepehead} alt="" className='w-20' />
 
