@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+ import Hero from "./sections/Hero";
+ import Navbar from "./sections/Navbar";
+ import About from "./sections/About";
+ import Howto from "./sections/Howto";
+ import Tokenomics from "./sections/Tokenomics";
+ import Roadmap from "./sections/Roadmap";
+ import Footer from "./sections/Footer";
+ 
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="bg-[#4C9540] min-h-screen  pb-10f text-white overflow-hidden z-[2]">
+     
+<Navbar/>
+      <Hero/>
+<About/>
+<Howto/>
+<Tokenomics/>
+<Roadmap/>
+<Footer/>
     </div>
   );
 }

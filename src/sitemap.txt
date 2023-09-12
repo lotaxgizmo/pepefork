@@ -1,0 +1,27 @@
+NAVBAR
+
+    Logo
+    Nav
+    Button
+
+HERO
+
+    Hero Text
+    IMages
+    Button
+    CA
+    Text
+    ForkImg
+
+ABOUT
+
+    Text
+    Image
+
+HOWTO
+
+TOKENOMICS
+
+ROADMAP
+
+FOOTER
