@@ -57,10 +57,9 @@ function Hero() {
 <img src={Ca} alt="" className='w-[700px] mt-5 z-[2] lg:flex hidden' />
 
 
-  <div className="text px-8 text-center pt-20 z-[2] lg:w-[1000px] lg:text-xl">
+  <div className="text px-8 text-center pt-20 z-[2] lg:w-[1000px] lg:text-3xl">
     <p className=''>
-    More than just a token, PepeFork symbolizes rebirth, redemption, and community-driven strength that's simply unstoppable! <br/>
-  $PEPEFORK symbolizes rebirth, redemption, and a community-driven strength that's simply unstoppable. <br/> 
+    More than just a token, PepeFork symbolizes rebirth, redemption, and community-driven strength that's simply unstoppable! <br/> <br/> 
   With the power of our team and our community, we will convert all memecoin followers to our fork army.
     </p>
   </div>
