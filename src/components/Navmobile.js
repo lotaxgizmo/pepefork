@@ -28,12 +28,14 @@ function Navmobile() {
                 <div className={`fixed top-5 nav w-80 border-black border    bg-white  ${isMax ? maxHeight : minHeight} 
                 rounded-2xl flex flex-col align-middle p-4  z-30`}>
                     
-                    <div className='w-full h-14 justify-between flex align-middle items-center'>
+                    <div className='w-full h-14 justify-between flex align-middle items-center text-black'>
                        
                         <a href="http://pepefork.com" >
                             <img src={Pepehead} alt="" className='w-14' />
                         </a>
-                       
+                        <div className='mr-5'>
+                        <ul>MENU</ul>
+                        </div>
                        <div onClick={toggleHeight} >
                         <img src={Hamburger} alt="" className='w-10 self-startd'/>
                        </div>
