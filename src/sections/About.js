@@ -44,14 +44,14 @@ function About() {
             With future utility, such as an NFT trading card game, we aim to bring a fun and enticing environment for new holders to ride our chart to the moon.
           </p>
         </div>
-        <div className=" px-8 text-left py-10 z-[2] lg:w-[1000px]  bborder bborder-white rounded-2xl ">
+        <div className=" px-8 text-left pb-4 z-[2] lg:w-[1000px]  bborder bborder-white rounded-2xl ">
           <p className=''>
 
 
 
           And once the initial set of NFT cards are completed, future expansion packs will colaborate with other top groups in the memecoin space. All built on and powered by PEPEFORK.
             <br /> 
-            That isn't it for PEPEFORK, however.  New ways to engage the community and build upon the foundation of PEPEFORK are already being discussed.  Join our community as we meme our way to greatness, together!
+            That isn't it for PEPEFORK, however.  New ways to engage the community and build upon the foundation of PEPEFORK are already being discussed.  
           </p>
         </div>
 
