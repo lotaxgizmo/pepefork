@@ -13,7 +13,7 @@ import Fade from 'react-reveal/Fade';
 
 function Roadmap() {
   return (
-    <div className='p-4 flex flex-col justify-center items-center mt-20'>
+    <div id='roadmap' className='p-4 flex flex-col justify-center items-center mt-20'>
       <img src={Roadmapmob} alt="" className='flex lg:hidden' />
       <img src={Roadmapp} alt="" className='lg:flex hidden' />
 

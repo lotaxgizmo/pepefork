@@ -5,7 +5,7 @@ import Union from '../images/Union.svg'
 
 function About() {
   return (
-    <div className='flex flex-col items-center justify-center p-4 relative mt-10'>
+    <div id='about' className='flex flex-col items-center justify-center p-4 relative mt-10'>
 
       <img src={Aboutmob} alt="" className='flex lg:hidden mb-10' />
 

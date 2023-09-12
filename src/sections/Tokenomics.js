@@ -19,7 +19,7 @@ import Fade from 'react-reveal/Fade';
 
 function Tokenomics() {
   return (
-    <div className='p-4 flex flex-col justify-center items-center mt-20'>
+    <div id='tokenomics' className='p-4 flex flex-col justify-center items-center mt-20'>
       <Fade right >
         <div className="tokenomicstop">
           <img src={Tokenomicss} alt="" className='lg:flex hidden' />

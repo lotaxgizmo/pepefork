@@ -18,7 +18,7 @@ import Fade from 'react-reveal/Fade';
 
 function Howto() {
   return (
-    <div className='p-4 flex flex-col justify-center align-middle items-center'>
+    <div id='howto' className='p-4 flex flex-col justify-center align-middle items-center'>
       <div className="topfrogs mt-5 mb-[-26px] flex justify-between w-10/12">
         <img src={Frogmob} alt="" className='flex lg:hidden'/>
 
