@@ -42,8 +42,9 @@ function Hero() {
 
 
 <div className="btn flex flex-col lg:flex-row items-center z-10 mt-10 justify-between lg:w-[500px]">
-  <a href="https://t.me/pepefork2">
-<img src={Tgbtn} alt="" className='w-52 my-3 ' />
+  
+  <a href="http://t.me/pepefork2" target="_blank" rel="noopener noreferrer">
+    <img src={Tgbtn} alt="" className='w-52 my-3 ' />
   </a>
   <a href="#">
 <img src={Forkbtn} alt="" className='w-52 my-3' />
