@@ -69,7 +69,9 @@ function Howto() {
         </Fade>
 
         </div>
+        <a href="#">
         <img src={Normbtn} alt="" className='lg:mt-5 '/>
+        </a>
         </div>
 
 

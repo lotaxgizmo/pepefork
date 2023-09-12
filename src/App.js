@@ -9,7 +9,7 @@
 
 function App() {
   return (
-    <div className="bg-[#4C9540] min-h-screen  pb-10f text-white overflow-hidden z-[2]">
+    <div className="bg-[#4C9540] min-h-screen  pb-10f text-white overflow-hidden z-[2] relative">
      
 <Navbar/>
       <Hero/>
