@@ -16,18 +16,22 @@ function About() {
 
 
           $PEPEFORK started as a simple meme coin but has quickly turned into a potent cultural movement.
-          <br />
+          <br /><br />
           With future utility, such as an NFT trading card game, we aim to bring a fun and enticing environment for new holders to ride our chart to the moon.
-          <br />
-          $PEPEFORK started as a simple meme coin but has quickly turned into a potent cultural movement.
-          <br />
-          With future utility, such as an NFT trading card game, we aim to bring a fun and enticing environment for new holders to ride our chart to the moon.
-        </p>
+          <br /><br />
+          And once the initial set of NFT cards are completed, future expansion packs will colaborate with other top groups in the memecoin space.
+          <br /><br />
+          All built on and powered by PEPEFORK.
+          <br /><br />
+          That isn't it for PEPEFORK, however.  New ways to engage the community and build upon the foundation of PEPEFORK are already being discussed.  
+          <br /><br />
+          Join our community as we meme our way to greatness, together!
+                  </p>
       </div>
 
 
 
-      <div className="bigtext flex-col justify-start relative lg:text-2xl lg:flex hidden">
+      <div className="bigtext flex-col justify-start relative lg:text-2xl lg:flex hidden  ">
         <img src={Union} alt="" className='absolute'/>
         <div className="text px-8 text-left py-10 z-[2] lg:w-[500px]  bborder bborder-white rounded-2xl ">
           <p className=''>
@@ -40,15 +44,14 @@ function About() {
             With future utility, such as an NFT trading card game, we aim to bring a fun and enticing environment for new holders to ride our chart to the moon.
           </p>
         </div>
-        <div className="text px-8 text-left py-10 z-[2] lg:w-[1000px]  bborder bborder-white rounded-2xl ">
+        <div className=" px-8 text-left py-10 z-[2] lg:w-[1000px]  bborder bborder-white rounded-2xl ">
           <p className=''>
 
 
 
-            $PEPEFORK started as a simple meme coin but has quickly turned into a potent cultural movement.
-            <br />
-            <br />
-            With future utility, such as an NFT trading card game, we aim to bring a fun and enticing environment for new holders to ride our chart to the moon.
+          And once the initial set of NFT cards are completed, future expansion packs will colaborate with other top groups in the memecoin space. All built on and powered by PEPEFORK.
+            <br /> 
+            That isn't it for PEPEFORK, however.  New ways to engage the community and build upon the foundation of PEPEFORK are already being discussed.  Join our community as we meme our way to greatness, together!
           </p>
         </div>
 
