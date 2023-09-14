@@ -20,7 +20,8 @@ align-middle p-4
                         <a href="#howto"><ul>HOW TO BUY</ul></a>
                         <a href="#tokenomics"><ul>TOKENOMICS</ul></a>
                         <a href="#roadmap"><ul>ROADMAP</ul></a>
-                        <a href="#"><ul>MEME GALLERY</ul></a>
+                        <a href="https://twitter.com/pepefork2"><ul>Twitter</ul></a>
+                        <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x5e57adb59943e31e087d058b2e790219fdb634b9" target="_blank" rel="noopener noreferrer"><ul>Dextools</ul></a>
 
                     </div>
                 </div>

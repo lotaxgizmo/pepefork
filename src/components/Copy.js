@@ -19,7 +19,7 @@ function CopyTextButton() {
   return (
     <div className='z-40 flex flex-col' onClick={handleCopyClick}>
         
-<img src={Camob} alt="" className='w-80 mt-5 z-[2] lg:hidden transition-all hover:w-[650px] active:w-[600px]' />
+<img src={Camob} alt="" className='w-80 mt-5 z-[2] lg:hidden transition-all  active:w-72' />
 <img src={Ca} alt="" className='w-[700px] mt-5 z-[2] lg:flex hidden transition-all hover:w-[650px] active:w-[600px] ' />
 {/* 
       <input

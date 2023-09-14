@@ -44,11 +44,12 @@ function Navmobile() {
                 
 
                     <div className={`flex-col w-full text-4xl text-left text-black justify-between mt-5 ${isMax ? showmenu : hidemenu}`}>
-                        <a href="#about"><ul>ABOUT</ul></a>
-                        <a href="#howto"><ul>HOW TO BUY</ul></a>
-                        <a href="#tokenomics"><ul>TOKENOMICS</ul></a>
-                        <a href="#roadmap"><ul>ROADMAP</ul></a>
-                        <a href="#"><ul>MEME GALLERY</ul></a>
+                        <a className='border-b-[1px] pt-[5px] border-black' href="#about"><ul>ABOUT</ul></a>
+                        <a className='border-b-[1px] pt-[5px] border-black' href="#howto"><ul>HOW TO BUY</ul></a>
+                        <a className='border-b-[1px] pt-[5px] border-black' href="#tokenomics"><ul>TOKENOMICS</ul></a>
+                        <a className='border-b-[1px] pt-[5px] border-black' href="#roadmap"><ul>ROADMAP</ul></a>
+                        <a className='border-b-[1px] pt-[5px] border-black' href="https://twitter.com/pepefork2"><ul>Twitter</ul></a>
+                        <a className='  pt-[5px] border-black' href="https://www.dextools.io/app/en/ether/pair-explorer/0x5e57adb59943e31e087d058b2e790219fdb634b9" target="_blank" rel="noopener noreferrer"><ul>Dextools</ul></a>
 
                     </div>
                 </div>

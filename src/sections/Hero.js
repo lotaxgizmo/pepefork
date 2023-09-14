@@ -5,6 +5,8 @@ import Forkmob from '../images/FORKmob.svg'
 import Forksmob from '../images/Forksmob.svg' 
 import Tgbtn from '../images/tgbtn.svg'
 import Forkbtn from '../images/forkbtn.svg' 
+import Dextools from '../images/Dextools.svg' 
+import Twitter from '../images/Twitter.svg' 
 import Leftpepe from '../images/Leftpepe.svg'
 import Rightpepe from '../images/Rightpepe.svg'
 import Backimg from '../images/backgroundimg.svg'
@@ -41,13 +43,14 @@ function Hero() {
 <div className="btn flex flex-col lg:flex-row items-center z-10 mt-10 justify-between lg:w-[500px]">
   
   <a href="http://t.me/pepefork2" target="_blank" rel="noopener noreferrer">
-    <img src={Tgbtn} alt="" className='w-52 my-3 ' />
+    <img src={Tgbtn} alt="" className='w-52 p-1 my-3 ' />
   </a>
   <a href="https://app.uniswap.org/#/swap?outputCurrency=0x49e5792e7af589eabe823e3fc5b3d6e0c039951a">
-<img src={Forkbtn} alt="" className='w-52 my-3' />
+<img src={Forkbtn} alt="" className='w-52 p-1 my-3' />
   </a>
 
 </div>
+
 
 <CopyTextButton/>
 
