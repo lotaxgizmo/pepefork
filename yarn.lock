@@ -3193,6 +3193,11 @@ clean-css@^5.2.2:
   dependencies:
     source-map "~0.6.0"
 
+clipboard-copy@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/clipboard-copy/-/clipboard-copy-4.0.1.tgz#326ef9726d4ffe72d9a82a7bbe19379de692017d"
+  integrity sha512-wOlqdqziE/NNTUJsfSgXmBMIrYmfd5V0HCGsR8uAKHcg+h9NENWINcfRjtWGU77wDHC8B8ijV4hMTGYbrKovng==
+
 cliui@^7.0.2:
   version "7.0.4"
   resolved "https://registry.npmjs.org/cliui/-/cliui-7.0.4.tgz"
@@ -7814,6 +7819,11 @@ react-scripts@5.0.1:
     workbox-webpack-plugin "^6.4.1"
   optionalDependencies:
     fsevents "^2.3.2"
+
+react-simple-animate@^3.5.2:
+  version "3.5.2"
+  resolved "https://registry.yarnpkg.com/react-simple-animate/-/react-simple-animate-3.5.2.tgz#ab08865c8bd47872b92bd1e25902326bf7c695b3"
+  integrity sha512-xLE65euP920QMTOmv5haPlml+hmOPDkbIr5WeF7ADIXWBYt5kW/vwpNfWg8EKMab8aeDxIZ6QjffVh8v2dUyhg==
 
 react@^18.2.0:
   version "18.2.0"

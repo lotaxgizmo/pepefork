@@ -1,17 +1,15 @@
-import React from 'react'
-import Date from '../images/Date.svg'
+import React from 'react' 
 import Pepe from '../images/PEPE.svg'
 import Pepemob from '../images/PEPEmob.svg'
 import Forkmob from '../images/FORKmob.svg'
-import Forksmob from '../images/Forksmob.svg'
-import Mobnav from '../images/mobnav.svg'
+import Forksmob from '../images/Forksmob.svg' 
 import Tgbtn from '../images/tgbtn.svg'
-import Forkbtn from '../images/forkbtn.svg'
-import Camob from '../images/camob.svg'
-import Ca from '../images/ca.svg'
+import Forkbtn from '../images/forkbtn.svg' 
 import Leftpepe from '../images/Leftpepe.svg'
 import Rightpepe from '../images/Rightpepe.svg'
 import Backimg from '../images/backgroundimg.svg'
+
+import CopyTextButton from '../components/Copy'
 
 import Fade from 'react-reveal/Fade';
 
@@ -45,15 +43,13 @@ function Hero() {
   <a href="http://t.me/pepefork2" target="_blank" rel="noopener noreferrer">
     <img src={Tgbtn} alt="" className='w-52 my-3 ' />
   </a>
-  <a href="#">
+  <a href="https://app.uniswap.org/#/swap?outputCurrency=0x49e5792e7af589eabe823e3fc5b3d6e0c039951a">
 <img src={Forkbtn} alt="" className='w-52 my-3' />
   </a>
 
 </div>
 
-
-<img src={Camob} alt="" className='w-80 mt-5 z-[2] lg:hidden' />
-<img src={Ca} alt="" className='w-[700px] mt-5 z-[2] lg:flex hidden' />
+<CopyTextButton/>
 
 
   <div className="text px-8 text-center pt-20 z-[2] lg:w-[1000px] lg:text-3xl">
